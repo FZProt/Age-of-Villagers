@@ -4,3 +4,4 @@ A game named Age of Villagers (AoV). The game is about people from different par
 
 A village can have several types of objects like house, tree and water source. There are also several nations available. Based on the nation, the objects may look different. For example, the house of the Inuits can be an igloo, whereas the house of the Bedouin can be a tent.
 
+Test cases are created.
